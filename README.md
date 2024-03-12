@@ -8,5 +8,6 @@ To run the program:
 .\script.sh
 ```
 # Youtube Video
-https://youtu.be/YoWWRtqvbpE?t=236
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YoWWRtqvbpE/2.jpg)](https://www.youtube.com/watch?v=YoWWRtqvbpE)
+
 
